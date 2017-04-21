@@ -1,0 +1,7 @@
+[Activity]
+name = CalculArte
+activity_version = 1
+bundle_id = org.calcularte.CalculArte
+exec = sugar-activity activity.CalculArteActivity
+icon = icon-abacus
+license = GPLv2+
